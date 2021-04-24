@@ -19,3 +19,6 @@ remote reoository using pish orginn button
 
 how to save afetr adding some text in sublime on wondows contro +s 
 or click on flie>>. save
+
+
+we do not have to push one commit t a time
