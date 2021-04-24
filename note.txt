@@ -1,0 +1,9 @@
+we just published our local git repo
+to remote GitHub.com reposotry
+few thng happened:
+1. it aoutomatically created new Remote repo 
+under your girhyb.com account
+2'made the connection with your local
+gitrepo
+3.
+added all your commit to remote repe
