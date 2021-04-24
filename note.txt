@@ -5,5 +5,13 @@ few thng happened:
 under your girhyb.com account
 2'made the connection with your local
 gitrepo
-3.
-added all your commit to remote repe
+3.added all your commit to remote repo
+
+
+now our work will contuniu locally 
+
+1. add a new file called note.txt
+2. commited the change to loca; repo
+3.we want this change to be reflected in remote repository so we PUSHED local commit to 
+remote reoository using pish orginn button
+4.observe it has been added in your reposirtie ung=der github.com
