@@ -16,5 +16,6 @@ now our work will contuniu locally
 remote reoository using pish orginn button
 4.observe it has been added in your reposirtie ung=der github.com
 
- 
-aaaaa
+
+how to save afetr adding some text in sublime on wondows contro +s 
+or click on flie>>. save
