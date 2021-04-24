@@ -22,3 +22,5 @@ or click on flie>>. save
 
 
 we do not have to push one commit t a time
+tou can push multiple commits in one shot 
+there is no limit
